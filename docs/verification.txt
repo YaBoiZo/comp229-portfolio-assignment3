@@ -1,0 +1,66 @@
+
+> zohaib-syed-comp229-portfolio-backend@3.0.0 verify
+> npm test && npm --prefix client run lint && npm --prefix client run build
+
+
+> zohaib-syed-comp229-portfolio-backend@3.0.0 test
+> node --test --test-concurrency=1
+
+✔ health endpoint responds (1553.862917ms)
+✔ signup cannot grant admin privileges or set internal fields (672.635875ms)
+✔ signup validates email, password, and duplicate accounts (341.580958ms)
+✔ signin rejects invalid credentials (337.841583ms)
+✔ profile supports cookies without exposing password or token version (352.076458ms)
+✔ anonymous and regular users cannot modify portfolio or access contact/user records (32.627917ms)
+✔ admin can create/read/update/delete projects; everyone can read (20.119333ms)
+✔ admin can create/read/update/delete qualifications; everyone can read (11.068208ms)
+✔ contact submission persists phone and message; only admin can manage it (9.396625ms)
+✔ invalid records and malformed IDs are rejected (6.277708ms)
+✔ cross-origin changes are rejected (1.790791ms)
+✔ signout clears cookie and invalidates previously issued bearer tokens (6.020167ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 3767.2635
+
+> comp229-react-portfolio@0.1.0 lint
+> eslint . --ignore-pattern .next
+
+
+> comp229-react-portfolio@0.1.0 build
+> next build
+
+▲ Next.js 16.4.1 (Turbopack)
+✓ Running next.config.ts took 18ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 182ms
+  Running TypeScript ...
+  Finished TypeScript in 1382ms ...
+  Collecting page data using 10 workers ...
+  Generating static pages using 10 workers (0/11) ...
+  Generating static pages using 10 workers (2/11) 
+  Generating static pages using 10 workers (5/11) 
+  Generating static pages using 10 workers (8/11) 
+✓ Generating static pages using 10 workers (11/11) in 194ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /about
+├ ○ /contact
+├ ○ /dashboard
+├ ○ /education
+├ ○ /projects
+├ ○ /services
+├ ○ /signin
+└ ○ /signup
+
+
+○  (Static)  prerendered as static content
+

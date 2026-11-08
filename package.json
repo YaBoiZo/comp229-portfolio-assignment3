@@ -1,0 +1,38 @@
+{
+  "name": "zohaib-syed-comp229-portfolio-backend",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "COMP229 Assignment 3 full-stack portfolio with admin/user roles, React forms, and MongoDB CRUD.",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "concurrently --names CLIENT,SERVER --prefix-colors cyan,green \"npm --prefix client run dev\" \"nodemon server.js\"",
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "nodemon server.js",
+    "start": "node server.js",
+    "test": "node --test --test-concurrency=1",
+    "verify": "npm test && npm --prefix client run lint && npm --prefix client run build",
+    "seed": "node scripts/seed.mjs",
+    "start:production": "NODE_ENV=production node production.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "compression": "^1.8.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.1",
+    "morgan": "^1.10.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "mongodb-memory-server": "^10.3.0",
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.4"
+  }
+}
