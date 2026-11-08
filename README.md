@@ -67,7 +67,7 @@ A Dockerfile and Render blueprint (`render.yaml`) are included. The full-stack a
 
 ## Submission
 
-The submission includes the source ZIP, a GitHub link, and a separate Word document containing local and hosted screenshots.
+The downloaded assignment brief requests a source ZIP, GitHub link, and Word document with screenshots. The live LMS submission page additionally requires the hosted site link and a video walkthrough link showing the application running locally and online.
 
 GitHub: https://github.com/YaBoiZo/comp229-portfolio-assignment3
 
