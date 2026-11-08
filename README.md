@@ -17,9 +17,9 @@ npm run seed
 npm run dev
 ```
 
-Open http://localhost:3001. Express runs on http://localhost:5002. The separate `PortfolioLab3` database preserves earlier assignment data. The seed command creates an admin directly in MongoDB and inserts the original portfolio content only when each content collection is empty. It preserves existing records and never resets an existing admin's password. Seeded project completion dates and the expected education completion date are editable defaults to review before submission.
+Open http://localhost:3001. Express runs on http://localhost:5002. The separate `PortfolioLab3` database preserves earlier assignment data. The seed command creates an admin directly in MongoDB and inserts the original portfolio content only when each content collection is empty. It preserves existing records and never resets an existing admin's password. Completion dates can be edited in the administrator dashboard.
 
-On this workstation, `.env` is configured for MongoDB Atlas and the separate `PortfolioLab3` database has been seeded. Admin email/password are in that ignored file; do not commit or record its contents. Regular users register through `/signup`.
+Configure your own database connection and admin credentials in `.env` before seeding a new installation. The hosted application uses Atlas. Regular users register through `/signup`.
 
 ## Features and roles
 
@@ -67,4 +67,8 @@ A Dockerfile and Render blueprint (`render.yaml`) are included. The full-stack a
 
 ## Submission
 
-See `docs/SUBMISSION_CHECKLIST.md`. Local and hosted evidence is in `docs/evidence/`: native PNG captures of the real Brave window with the address bar visible and no pointer. The bookmarks bar is hidden and only the top window-controls strip is cropped. A capture manifest records each file’s dimensions and SHA-256 hash.
+The submission includes the source ZIP, a GitHub link, and a separate Word document containing local and hosted screenshots.
+
+GitHub: https://github.com/YaBoiZo/comp229-portfolio-assignment3
+
+Live application: https://zohaib-syed-comp229-lab3.onrender.com

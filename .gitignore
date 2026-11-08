@@ -11,3 +11,6 @@ coverage/
 .history/
 docs/rendered/
 *.tsbuildinfo
+
+# Framework-generated development guidance
+client/AGENTS.md
