@@ -61,10 +61,10 @@ npm --prefix client run build
 npm run start:production
 ```
 
-Set `NODE_ENV=production`, `PORT`, an Atlas `MONGODB_URI`, `MONGODB_DB=PortfolioLab3`, a random `JWT_SECRET`, and `CLIENT_ORIGIN` equal to the exact HTTPS site origin. Supply admin credentials and run `npm run seed` once against the hosted database.
+Set `NODE_ENV=production`, `PORT`, an Atlas `MONGODB_URI`, `MONGODB_DB=PortfolioLab3`, a random `JWT_SECRET`, and `CLIENT_ORIGIN` equal to the exact HTTPS site origin. The Atlas database is already seeded. Admin credentials are only needed when running the seed script; they are not required as runtime environment variables. On Render, the service origin defaults to its provided `RENDER_EXTERNAL_URL`.
 
 A Dockerfile and Render blueprint (`render.yaml`) are included. Hosting has not been deployed yet. Atlas credentials, network access, and the chosen hosting account must be configured first. The earlier Vercel frontend does not automatically contain these LAB 3 changes.
 
 ## Submission
 
-See `docs/SUBMISSION_CHECKLIST.md`. Local evidence is in `docs/evidence/`: unmodified 3568 × 2118 PNG captures of the real Brave window, with browser chrome and no pointer. A capture manifest records each file’s dimensions and SHA-256 hash. Hosting and the walkthrough recording remain outstanding.
+See `docs/SUBMISSION_CHECKLIST.md`. Local evidence is in `docs/evidence/`: native 3568 × 2038 PNG captures of the real Brave window with the address bar visible and no pointer. The bookmarks bar is hidden and only the top window-controls strip is cropped. A capture manifest records each file’s dimensions and SHA-256 hash. Hosting and the walkthrough recording remain outstanding.

@@ -9,7 +9,7 @@ export const environment = {
   mongoUri: process.env.MONGODB_URI ?? "mongodb://127.0.0.1:27017/Portfolio",
   jwtSecret: process.env.JWT_SECRET ?? "development-only-change-me",
   jwtExpiresIn: process.env.JWT_EXPIRES_IN ?? "2h",
-  clientOrigin: process.env.CLIENT_ORIGIN ?? "http://localhost:3001",
+  clientOrigin: process.env.CLIENT_ORIGIN ?? process.env.RENDER_EXTERNAL_URL ?? "http://localhost:3001",
 };
 
 if (

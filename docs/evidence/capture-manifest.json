@@ -2,78 +2,78 @@
   {
     "file": "00-signin.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "6502bc9f7abc1c09ea55a76fe47b279f7a57ae8bd1b759410a0b2e5de3dc793f",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "d15f60c589075c6acf5c0e0f25828f4991bd53ce2b9959df97d3ab311ced9267",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "01-admin-dashboard.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "445feced4f1c9b970a22260812ebe0d44dd0ab8a4e823394177112616e38afe9",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "d0b098302768ea8f08abea23a4da3fe8f6e86ead589e10146c9dc8751b9ddcdb",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "02-project-editor.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "0012d49b15becc2a460c2771c589bf3d2320491775a0b78afb936438c408f53c",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "306adc8e620a9e78d11107eef427e4089fedc66d26daae1f0e77677b585b2cd7",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "02b-project-editor-actions.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "521cf5dcdc79e3a7df09bedb2745a171e3c015a10540188c34148d83b3b2aec3",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "4d5b925f067abfcfecd3cc6af1c13f748e3d78ed27790206f6edaca7477a92aa",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "03-projects-from-database.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "877e9c6b0a8f1b044f731590c077ccba874897520d69cb26910de03f72afd680",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "0a5ee816f1227e3a50f146a2246f7d4ab6630db9d9394ae4bb913888d7f20e3f",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "03b-project-details.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "e5b78fa4cd71a5873e2524155af692a6ecd8976ec256d6c4b840e4535c8cae34",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "7a1b5a955c87b4e6c0b5e748f26b2149ae490e821e60c6b3f711eba58b1be0db",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "04-member-view.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "71e96dc5d09a5d4678905a26913f89e0c4ff015cc99ae9cf29401f7bccdb6e6b",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "6da5120cdcf37358ca29db46d7ec5a95669471621dc54415248e125719eb632f",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "05-contact-saved.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "d2dd0d74752ad6bd4e0b5de49ed7842b9f94218ad9182b4317902c7518ebfa0a",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "fd50d2ef1824fc9f43f38eba74b4cce45fc23c3e1f772d47947d73930d99e341",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "06-education-from-database.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "dfff0502be43c1f2e5c880f57575155fcac13ba6a5454e2e8d3c9801d9025c05",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "d4ed7187800b498454c6ad33931ddc1a7ccfebaeb06920c48781534516c4c07c",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "06b-education-details.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "969a7a4aa96210dff0e4079244132d4797d164502dad5c5acf8b2618af4e361b",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "1b8bd11760699d8607559fbe4a07ab707fc72c8d9fbdfd1a4716d6e5e76b35fa",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   },
   {
     "file": "07-signup.png",
     "width": 3568,
-    "height": 2118,
-    "sha256": "ff67b24609b3701dbd28221a35ff9c3c1321bcc0b0c94e8cf4d4fa45dad0e562",
-    "capture": "Unmodified macOS screencapture of the Brave window; no cursor; no stitching or resizing"
+    "height": 2038,
+    "sha256": "11a5b26e133c1d1b731a59804c3f267d7cd6a41f707964c320093a81528928b6",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   }
 ]
