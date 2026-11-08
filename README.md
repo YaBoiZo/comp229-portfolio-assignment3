@@ -67,4 +67,4 @@ A Dockerfile and Render blueprint (`render.yaml`) are included. Hosting has not 
 
 ## Submission
 
-See `docs/SUBMISSION_CHECKLIST.md`. Local evidence is in `docs/evidence/`. Hosting and the walkthrough recording remain outstanding.
+See `docs/SUBMISSION_CHECKLIST.md`. Local evidence is in `docs/evidence/`: unmodified 3568 × 2118 PNG captures of the real Brave window, with browser chrome and no pointer. A capture manifest records each file’s dimensions and SHA-256 hash. Hosting and the walkthrough recording remain outstanding.
