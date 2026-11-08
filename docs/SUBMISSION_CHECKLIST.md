@@ -10,6 +10,9 @@
 - [x] Original portfolio content seeded into separate LAB 3 database
 - [x] API tests, frontend lint, production build
 - [x] Local browser verification and screenshots
+- [x] GitHub source repository created and pushed
+- [x] Local screenshot document prepared and visually checked
+- [x] Source ZIP prepared without secrets or dependencies
 - [ ] Cloud database connected and seeded
 - [ ] Full-stack application deployed and verified online
 - [ ] Walkthrough recorded showing local and cloud versions
