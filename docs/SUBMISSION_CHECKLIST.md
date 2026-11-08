@@ -13,7 +13,7 @@
 - [x] GitHub source repository created and pushed
 - [x] Local screenshot document prepared and visually checked
 - [x] Source ZIP prepared without secrets or dependencies
-- [ ] Cloud database connected and seeded
+- [x] MongoDB Atlas connected and seeded in the separate PortfolioLab3 database
 - [ ] Full-stack application deployed and verified online
 - [ ] Walkthrough recorded showing local and cloud versions
 - [ ] Add final live URL and recording link to submission

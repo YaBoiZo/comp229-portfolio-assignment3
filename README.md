@@ -19,7 +19,7 @@ npm run dev
 
 Open http://localhost:3001. Express runs on http://localhost:5002. The separate `PortfolioLab3` database preserves earlier assignment data. The seed command creates an admin directly in MongoDB and inserts the original portfolio content only when each content collection is empty. It preserves existing records and never resets an existing admin's password. Seeded project completion dates and the expected education completion date are editable defaults to review before submission.
 
-On this workstation, `.env` is already configured and seeded. Admin email/password are in that ignored file; do not commit or record its contents. Regular users register through `/signup`.
+On this workstation, `.env` is configured for MongoDB Atlas and the separate `PortfolioLab3` database has been seeded. Admin email/password are in that ignored file; do not commit or record its contents. Regular users register through `/signup`.
 
 ## Features and roles
 
