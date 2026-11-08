@@ -15,9 +15,7 @@
 - [x] Source ZIP prepared without secrets or dependencies
 - [x] MongoDB Atlas connected and seeded in the separate PortfolioLab3 database
 - [x] Full-stack application deployed and verified online
-- [ ] Walkthrough recorded showing local and cloud versions
 - [x] Final live URL documented
-- [ ] Add recording link to submission
 
 Live application: https://zohaib-syed-comp229-lab3.onrender.com
 

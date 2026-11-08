@@ -67,4 +67,4 @@ A Dockerfile and Render blueprint (`render.yaml`) are included. The full-stack a
 
 ## Submission
 
-See `docs/SUBMISSION_CHECKLIST.md`. Local and hosted evidence is in `docs/evidence/`: native PNG captures of the real Brave window with the address bar visible and no pointer. The bookmarks bar is hidden and only the top window-controls strip is cropped. A capture manifest records each file’s dimensions and SHA-256 hash. The walkthrough recording remains outstanding.
+See `docs/SUBMISSION_CHECKLIST.md`. Local and hosted evidence is in `docs/evidence/`: native PNG captures of the real Brave window with the address bar visible and no pointer. The bookmarks bar is hidden and only the top window-controls strip is cropped. A capture manifest records each file’s dimensions and SHA-256 hash.

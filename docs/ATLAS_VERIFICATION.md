@@ -21,5 +21,3 @@ Verified November 8, 2026 at https://zohaib-syed-comp229-lab3.onrender.com. Rend
 - Regular users received HTTP 403 for project creation and private contact access.
 - Signout invalidated the previous token with HTTP 401.
 - Temporary contact and member records were removed.
-
-The walkthrough recording remains outstanding.
