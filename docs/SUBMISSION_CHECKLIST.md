@@ -14,8 +14,11 @@
 - [x] Local screenshot document prepared and visually checked
 - [x] Source ZIP prepared without secrets or dependencies
 - [x] MongoDB Atlas connected and seeded in the separate PortfolioLab3 database
-- [ ] Full-stack application deployed and verified online
+- [x] Full-stack application deployed and verified online
 - [ ] Walkthrough recorded showing local and cloud versions
-- [ ] Add final live URL and recording link to submission
+- [x] Final live URL documented
+- [ ] Add recording link to submission
 
-The screenshot document currently provides local evidence. Add hosted screenshots after deployment. The instruction document lists Week 11 at 11:59 p.m.; confirm the calendar date in the LMS.
+Live application: https://zohaib-syed-comp229-lab3.onrender.com
+
+The screenshot document includes local and hosted browser evidence. The instruction document lists Week 11 at 11:59 p.m.; confirm the calendar date in the LMS.

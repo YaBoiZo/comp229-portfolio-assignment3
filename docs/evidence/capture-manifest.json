@@ -75,5 +75,26 @@
     "height": 2038,
     "sha256": "11a5b26e133c1d1b731a59804c3f267d7cd6a41f707964c320093a81528928b6",
     "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
+  },
+  {
+    "file": "08-hosted-home.png",
+    "width": 3600,
+    "height": 2070,
+    "sha256": "f81a2237118c4f5f72e4b8cb50dd38d06d31b158540ae383588f89cff2cbeead",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
+  },
+  {
+    "file": "09-hosted-projects.png",
+    "width": 3600,
+    "height": 2070,
+    "sha256": "ad0ed26357696ec2a80c427095a571bace94391d024ef78e5e2fc143f1c13797",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
+  },
+  {
+    "file": "10-hosted-admin-dashboard.png",
+    "width": 3600,
+    "height": 2070,
+    "sha256": "2e956741b745d067a7f345c3ff83fb0a38587100487261574bdec2faabf79401",
+    "capture": "Native Brave window capture with bookmarks bar hidden. Only the top 80 pixel window-controls and tabs strip is cropped. Address bar and page content retained; no pointer, stitching, or resizing."
   }
 ]
